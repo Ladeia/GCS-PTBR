@@ -120,10 +120,10 @@ k:"--loadsave"
 v:"--loadsave"
 
 k:"--margins <margins>"
-v:"--margens <margins>"
+v:"--margins <margins>"
 
 k:"--paper <size>"
-v:"--papel <size>"
+v:"--paper <size>"
 
 k:"--pdf"
 v:"--pdf"
@@ -132,7 +132,7 @@ k:"--png"
 v:"--png"
 
 k:"--text <file>"
-v:"--texto <file>"
+v:"--text <file>"
 
 k:"-h, --help"
 v:"-h, --help"
@@ -141,79 +141,79 @@ k:"-v, --version"
 v:"-v, --version"
 
 k:"1 advantage remaining to be processed."
-v:"1 advantage remaining to be processed."
+v:"1 vantagem restante a ser processada."
 
 k:"1 item remaining to be edited."
-v:"1 item remaining to be edited."
+v:"1 item restante a ser editado."
 
 k:"1 item remaining to be named."
-v:"1 item remaining to be named."
+v:"1 item restante a ser nomeado."
 
 k:"1 sec"
 v:"1 seg"
 
 k:"<html><body><b>Double-click</b> to set a character portrait.<br><br>The dimensions of the chosen picture should be in a ratio of<br><b>3 pixels wide for every 4 pixels tall</b> to scale without distortion.<br><br>Dimensions of <b>{0}x{1}</b> are ideal.</body></html>"
-v:"<html><body><b>Double-click</b> to set a character portrait.<br><br>The dimensions of the chosen picture should be in a ratio of<br><b>3 pixels wide for every 4 pixels tall</b> to scale without distortion.<br><br>Dimensions of <b>{0}x{1}</b> are ideal.</body></html>"
+v:"<html><body><b>Duplo clique</b> para inserir uma imagem do personagem.<br><br>As dimensões da imagem escolhidas precisam estar na proporção de<br><b>3 pixels de largura por 4 pixels de altura</b> para manter a proporção.<br><br>Dimensões de <b>{0}x{1}</b> são ideais.</body></html>"
 
 k:"<html><body>Current hit points at or below this point cause<br>the character to <b>roll vs. HT</b> to avoid death</body></html>"
-v:"<html><body>Current hit points at or below this point cause<br>the character to <b>roll vs. HT</b> to avoid death</body></html>"
+v:"<html><body>Os pontos de vida atuais ou menores fazem com que <br>o personagem <b>role contra HT</b> para evitar a morte</body></html>"
 
 k:"<html><body>Current hit points at or below this point indicate the character<br>is on the verge of collapse, causing the character to <b>roll vs. HT</b><br>(at -1 per full multiple of HP below zero) every second to avoid<br>falling unconscious</body></html>"
-v:"<html><body>Current hit points at or below this point indicate the character<br>is on the verge of collapse, causing the character to <b>roll vs. HT</b><br>(at -1 per full multiple of HP below zero) every second to avoid<br>falling unconscious</body></html>"
+v:"<html><body>Os pontos de vida atuais ou menores indicam que o personagem<br>está a beira de um colapso, devendo fazer <b>uma rolagem contra HT</b><br>(-1 por cada multiplo completo de HP abaixo de 0) a cada segundo para evitar <br>cair inconsciente</body></html>"
 
 k:"<html><body>TL0: Stone Age (Prehistory and later)<br>TL1: Bronze Age (3500 B.C.+)<br>TL2: Iron Age (1200 B.C.+)<br>TL3: Medieval (600 A.D.+)<br>TL4: Age of Sail (1450+)<br>TL5: Industrial Revolution (1730+)<br>TL6: Mechanized Age (1880+)<br>TL7: Nuclear Age (1940+)<br>TL8: Digital Age (1980+)<br>TL9: Microtech Age (2025+?)<br>TL10: Robotic Age (2070+?)<br>TL11: Age of Exotic Matter<br>TL12: Anything Goes</body></html>"
-v:"<html><body>TL0: Stone Age (Prehistory and later)<br>TL1: Bronze Age (3500 B.C.+)<br>TL2: Iron Age (1200 B.C.+)<br>TL3: Medieval (600 A.D.+)<br>TL4: Age of Sail (1450+)<br>TL5: Industrial Revolution (1730+)<br>TL6: Mechanized Age (1880+)<br>TL7: Nuclear Age (1940+)<br>TL8: Digital Age (1980+)<br>TL9: Microtech Age (2025+?)<br>TL10: Robotic Age (2070+?)<br>TL11: Age of Exotic Matter<br>TL12: Anything Goes</body></html>"
+v:"<html><body>NT0: Idade da pedra(pré-história e eras anteriores)<br>NT1: Idade do bronze(3500 A.C.+)<br>NT2: Idade do Ferro (1200 A.C.+)<br>NT3: Idade Média (600 D.C.+)<br>NT4: Era dos descobrimentos (1450+)<br>NT5: Revolução industrial (1730+)<br>NT6: Era da automação (1880+)<br>NT7: Era nuclear (1940+)<br>NT8: Era digital (1980+)<br>NT9: Era da microtecnologia (2025+?)<br>NT10: Era da robótica (2070+?)<br>NT11: Era da matéria exótica<br>NT12: O que o narrador quiser!</body></html>"
 
 k:"<html><body>TL0: Stone Age<br>TL1: Bronze Age<br>TL2: Iron Age<br>TL3: Medieval<br>TL4: Age of Sail<br>TL5: Industrial Revolution<br>TL6: Mechanized Age<br>TL7: Nuclear Age<br>TL8: Digital Age<br>TL9: Microtech Age<br>TL10: Robotic Age<br>TL11: Age of Exotic Matter<br>TL12: Anything Goes</body></html>"
-v:"<html><body>TL0: Stone Age<br>TL1: Bronze Age<br>TL2: Iron Age<br>TL3: Medieval<br>TL4: Age of Sail<br>TL5: Industrial Revolution<br>TL6: Mechanized Age<br>TL7: Nuclear Age<br>TL8: Digital Age<br>TL9: Microtech Age<br>TL10: Robotic Age<br>TL11: Age of Exotic Matter<br>TL12: Anything Goes</body></html>"
+v:"<html><body>NT0: Idade da pedra<br>NT1: Idade do bronze<br>NT2: Idade do Ferro<br>NT3: Idade Média<br>NT4: Era dos descobrimentos<br>NT5: Revolução industrial<br>NT6: Era da automação<br>NT7: Era nuclear<br>NT8: Era digital<br>NT9: Era da microtecnologia<br>NT10: Era da robótica<br>NT11: Era da matéria exótica<br>NT12: O que o narrador quiser!</body></html>"
 
 k:"<html><body>The hit penalty for targeting the <b>{0}</b> hit location</body></html>"
-v:"<html><body>The hit penalty for targeting the <b>{0}</b> hit location</body></html>"
+v:"<html><body>A penalidade para acertar o <b>{0}</b> local de acerto</body></html>"
 
 k:"<html><body>The portrait to use when a new character sheet is created.<br><br>Ideal original portrait size is {0} pixels wide by {1} pixels tall,<br>although the image will be automatically scaled to these<br>dimensions, if necessary.</body></html>"
-v:"<html><body>The portrait to use when a new character sheet is created.<br><br>Ideal original portrait size is {0} pixels wide by {1} pixels tall,<br>although the image will be automatically scaled to these<br>dimensions, if necessary.</body></html>"
+v:"<html><body>O retrato é usado quando um novo personagem é criado.<br><br> O tamanho de retrato ideal é {0} pixels de largura por {1} pixels de altura,<br>embora a imagem seja automaticamente redimensionada para essas <br>dimensões, caso necessário.</body></html>"
 
 k:"<html><body>The random roll needed to hit the <b>{0}</b> hit location</body></html>"
-v:"<html><body>The random roll needed to hit the <b>{0}</b> hit location</body></html>"
+v:"<html><body>Uma rolagem randômica é necessária para acertar o <b>{0}</b> local de acerto</body></html>"
 
 k:"<html><body>The total DR protecting the <b>{0}</b> hit location</body></html>"
-v:"<html><body>The total DR protecting the <b>{0}</b> hit location</body></html>"
+v:"<html><body>A RD total para o <b>{0}</b> local de acerto</body></html>"
 
 k:"<html><body>Whether or not the native print dialogs should be used.<br>Choosing this option will prevent the program from saving<br>and restoring print settings with the document.</body></html>"
-v:"<html><body>Whether or not the native print dialogs should be used.<br>Choosing this option will prevent the program from saving<br>and restoring print settings with the document.</body></html>"
+v:"<html><body>As caixas de impressão nativas serão usadas?<br>Escolher esta opção previne o programa de salvar<br>e restaurar as configurações de impressão do documento.</body></html>"
 
 k:"<html>Margins<br>(inches)"
-v:"<html>Margins<br>(inches)"
+v:"<html>Margens<br>(polegadas)"
 
 k:"A file could not be deleted."
-v:"A file could not be deleted."
+v:"Um arquivo não pode ser deletado."
 
 k:"A reference to the book and page this %s appears on (e.g. B22 would refer to \"Basic Set\", page 22)"
-v:"A reference to the book and page this %s appears on (e.g. B22 would refer to \"Basic Set\", page 22)"
+v:"Uma referência para o livro e a página %s aparece em (ex. B22 se refere a \"Basic Set\", página 22)"
 
 k:"A summary of all points spent on a racial package for this character"
-v:"A summary of all points spent on a racial package for this character"
+v:"Um resumo dos pontos gastos em pacote racial para este personagem"
 
 k:"A summary of all points spent on advantages for this character"
-v:"A summary of all points spent on advantages for this character"
+v:"Um resumo dos pontos gastos em vantagens para este personagem"
 
 k:"A summary of all points spent on attributes for this character"
-v:"A summary of all points spent on attributes for this character"
+v:"Um resumo dos pontos gastos em atributos para este personagem"
 
 k:"A summary of all points spent on disadvantages for this character"
-v:"A summary of all points spent on disadvantages for this character"
+v:"Um resumo dos pontos gastos em desvantagens para este personagem"
 
 k:"A summary of all points spent on quirks for this character"
-v:"A summary of all points spent on quirks for this character"
+v:"Um resumo dos pontos gastos em peculiaridades para este personagem"
 
 k:"A summary of all points spent on skills for this character"
-v:"A summary of all points spent on skills for this character"
+v:"Um resumo dos pontos gastos em perícias para este personagem"
 
 k:"A summary of all points spent on spells for this character"
-v:"A summary of all points spent on spells for this character"
+v:"Um resumo dos pontos gastos em magias para este personagem"
 
 k:"About GCS"
-v:"About GCS"
+v:"Sobre o GCS"
 
 k:"Acc"
 v:"Acc"
