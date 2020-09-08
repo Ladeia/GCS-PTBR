@@ -21,25 +21,25 @@
 # via a context value will be used.
 
 k:"\nEncumbrance [%d]"
-v:"\nEncumbrance [%d]"
+v:"\nSobrepeso [%d]"
 
 k:"    Created: %s\n"
-v:"    Created: %s\n"
+v:"    Criado em: %s\n"
 
 k:"    Used text template file: %s\n"
-v:"    Used text template file: %s\n"
+v:"    Modelo de arquivo de texto usado: %s\n"
 
 k:"  ** ERROR ENCOUNTERED **"
-v:"  ** ERROR ENCOUNTERED **"
+v:"  ** ERRO ENCONTRADO **"
 
 k:"  Creating PDF... "
-v:"  Creating PDF... "
+v:"  Criando PDF... "
 
 k:"  Creating PNG... "
-v:"  Creating PNG... "
+v:"  Criando PNG... "
 
 k:"  Creating from text template... "
-v:"  Creating from text template... "
+v:"  Criando a partir de um modelo de texto... "
 
 k:" (e.g. '+5 lb', '-5 lb', '+10%', '-10%')"
 v:" (e.g. '+5 lb', '-5 lb', '+10%', '-10%')"
@@ -54,76 +54,76 @@ k:" (e.g. 'x2', '+2 CF', '-0.2 CF')"
 v:" (e.g. 'x2', '+2 CF', '-0.2 CF')"
 
 k:" Block"
-v:" Block"
+v:" Bloqueio"
 
 k:" Files"
-v:" Files"
+v:" Arquivos"
 
 k:" Parry"
-v:" Parry"
+v:" Esquiva"
 
 k:" and level {0}"
-v:" and level {0}"
+v:" e nível {0}"
 
 k:" dpi"
 v:" dpi"
 
 k:" is copyrighted ©%s by %s"
-v:" is copyrighted ©%s by %s"
+v:" possui direitos autorais ©%s de %s"
 
 k:" level {0} and tech level matches\n"
-v:" level {0} and tech level matches\n"
+v:" nível {0} e nível tecnológico compatíveis\n"
 
 k:"$"
 v:"$"
 
 k:"%s %s\n%s Architecture\nJava %s"
-v:"%s %s\n%s Architecture\nJava %s"
+v:"%s %s\n%s Arquitetura\nJava %s"
 
 k:"%s (%s per %s)"
-v:"%s (%s per %s)"
+v:"%s (%s por %s)"
 
 k:"%s Output Templates"
-v:"%s Output Templates"
+v:"%s Modelos de saída"
 
 k:"%s is up to date (re-download v%s)"
-v:"%s is up to date (re-download v%s)"
+v:"%s está atualizado (baixar de novo v%s)"
 
 k:"%s update was successful."
-v:"%s update was successful."
+v:"%s atualizado com sucesso."
 
 k:"%s v%s is available!"
-v:"%s v%s is available!"
+v:"%s v%s está disponível!"
 
 k:"(base only)"
-v:"(base only)"
+v:"(apenas a base)"
 
 k:"(development)"
-v:"(development)"
+v:"(desenvolvimento)"
 
 k:"(levels only)"
-v:"(levels only)"
+v:"(níveis apenas)"
 
 k:"* To change the setting on existing sheets, use the per-sheet settings available from the toolbar"
-v:"* To change the setting on existing sheets, use the per-sheet settings available from the toolbar"
+v:"* Para alterar a configuração em uma ficha existente, use a configuração por ficha disponível na barra de ferramentas"
 
 k:"** From container - not modifiable here **"
-v:"** From container - not modifiable here **"
+v:"** Do container - não modificável aqui **"
 
 k:", notes {0},"
-v:", notes {0},"
+v:", notas {0},"
 
 k:", specialization {0},"
-v:", specialization {0},"
+v:", especialização {0},"
 
 k:"--loadsave"
 v:"--loadsave"
 
 k:"--margins <margins>"
-v:"--margins <margins>"
+v:"--margens <margins>"
 
 k:"--paper <size>"
-v:"--paper <size>"
+v:"--papel <size>"
 
 k:"--pdf"
 v:"--pdf"
@@ -132,7 +132,7 @@ k:"--png"
 v:"--png"
 
 k:"--text <file>"
-v:"--text <file>"
+v:"--texto <file>"
 
 k:"-h, --help"
 v:"-h, --help"
@@ -150,7 +150,7 @@ k:"1 item remaining to be named."
 v:"1 item remaining to be named."
 
 k:"1 sec"
-v:"1 sec"
+v:"1 seg"
 
 k:"<html><body><b>Double-click</b> to set a character portrait.<br><br>The dimensions of the chosen picture should be in a ratio of<br><b>3 pixels wide for every 4 pixels tall</b> to scale without distortion.<br><br>Dimensions of <b>{0}x{1}</b> are ideal.</body></html>"
 v:"<html><body><b>Double-click</b> to set a character portrait.<br><br>The dimensions of the chosen picture should be in a ratio of<br><b>3 pixels wide for every 4 pixels tall</b> to scale without distortion.<br><br>Dimensions of <b>{0}x{1}</b> are ideal.</body></html>"
